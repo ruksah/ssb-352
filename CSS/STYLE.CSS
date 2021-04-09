@@ -1,0 +1,338 @@
+body {
+    background-color: bisque;
+    font-size: 19px;
+    letter-spacing: 1px;
+}
+h1,h2,h3,h4,h5,h6{
+    color: black;
+}
+.row_1 {
+    background-color:#E1C4F5;
+    color:purple;
+}
+.row_2 {
+    background-color:#F7E7DF;
+    color:purple;
+}
+.row_3 {
+    background-color:#FFD1E8;
+    color:purple;
+}
+.row_4 {
+    background-color:#FCB8E1;
+    color:purple;
+}
+.row_5{
+    background-color:#c7e5c6;
+    color:purple;
+}
+.row_6 {
+    background-color:#c8cfe7;
+    color:purple;
+}
+.row_7 {
+    background-color:#e5daf2;
+    color:purple;
+}
+.row_8{
+    background-color:#A1C7BA;
+    color:purple;
+}
+.row_9{
+    background-color:#C3E6D2;
+    color:purple;
+}
+.row_10{
+    background-color:#D1E6E1;
+    color:purple;
+}
+.row_11{
+    background-color:#A9D1E8;
+    color:purple;
+}
+.row_12{
+    background-color: #97C4DE;
+    color:purple;
+}
+.row_13{
+    background-color:#cdf1ae;
+    color:purple;
+}
+.row_14{
+    background-color:#90dacc;
+    color:purple;
+}
+.row_15{
+    background-color:#f7e9d1;
+    color:purple;
+}
+.row_16{
+    background-color:#f4d2b5;
+    color:purple;
+}
+.row_17{
+    background-color: #eab7b7;
+    color:purple;
+}
+
+.row_18{
+    background-color:#b89acf;
+    color:purple;
+}
+.row_19{
+    background-color:#C3BCCF;
+    color:purple;
+}
+
+.row_20{
+    background-color: #FFF3DE;
+    color:purple;
+}
+.row_21{
+    background-color:#FFE2C9;
+    color:purple;
+}
+
+.row_22{
+    background-color:#EBAE86;
+    color:purple;
+}
+.row_23{
+    background-color:#DD8680;
+    color:purple;
+}
+
+.row_24{
+    background-color:#64e987;
+    color:purple;
+}
+.row_25{
+    background-color:#92f294;
+    color:purple;
+}
+
+.row_26{
+    background-color:#c0f9fa;
+    color:purple;
+}
+.row_27{
+    background-color: #88cefb;
+    color:purple;
+}
+
+.row_28{
+    background-color:#fccccc;
+    color:purple;
+}
+.row_29{
+    background-color:#a6e227;
+    color:purple;
+}
+
+.row_30{
+    background-color:#ebec1c;
+    color:purple;
+}
+.row_31{
+    background-color:#edf1bc;
+    color:purple;
+}
+
+.row_32{
+    background-color:#52e8e6;
+    color:purple;
+}
+.row_33{
+    background-color:#b2aa9b;
+    color:purple;
+}
+
+.row_34{
+    background-color:#ceb493;
+    color:purple;
+}
+.row_35{
+    background-color:#d4c6b2;
+    color:purple;
+}
+
+.row_36{
+    background-color:#d4b1aa;
+    color:purple;
+}
+.row_37{
+    background-color:#c69ebe;
+    color:purple;
+}
+
+.row_38{
+    background-color:#999acf;
+    color:purple;
+}
+.row_39{
+    background-color:#799fcb;
+    color:purple;
+}
+
+.row_40{
+    background-color:#95b4cc;
+    color:purple;
+}
+.row_41{
+    background-color:#afc7d0;
+    color:purple;
+}
+
+.row_42{
+    background-color:#eef1e6;
+    color:purple;
+}
+.row_43{
+    background-color:#fec9c9;
+    color:purple;
+}
+
+.row_44{
+    background-color:#f9665e;
+    color: yellow;
+}
+.row_45{
+    background-color:#C8F69B;
+    color:purple;
+}
+
+.row_46{
+    background-color:#FFEEA5;
+    color:purple;
+}
+.row_47{
+    background-color:#FFCBA5;
+    color:purple;
+}
+
+.row_48{
+    background-color:#FFB1AF;
+    color:purple;
+}
+.row_49{
+    background-color:#D6D4FF;
+    color:purple;
+}
+
+.row_50{
+    background-color:#c33c23;
+    color:orange;
+}
+.row_51{
+    background-color:#dc453d;
+    color: cyan;
+}   
+
+.row_52{
+    background-color:#ff6961;
+    color: #C8F69B;
+}
+.row_53{
+    background-color:#ffb447;
+    color:purple;
+}
+
+.row_54{
+    background-color:#9c9ea4;
+    color:purple;
+}
+.row_55{
+    background-color:#d5c4b9;
+    color:purple;
+}
+
+.row_56{
+    background-color:#ede2db;
+    color:purple;
+}
+.row_57{
+    background-color:#62a6bf;
+    color:purple;
+}
+
+.row_58{
+    background-color:#c3bb9b;
+    color:purple;
+}
+.row_59{
+    background-color:#efefef;
+    color:purple;
+}
+
+.row_60{
+    background-color:#dedee8;
+    color:purple;
+}
+.row_61{
+    background-color:#f3f0e0;
+    color:purple;
+}
+
+.row_62{
+    background-color:#e4eade;
+    color:purple;
+}
+.row_63{
+    background-color:#eab1a1;
+    color:purple;
+}
+
+.row_64{
+    background-color: #ecccad;
+    color:purple;
+}
+.row_65{
+    background-color:#e8e3bf;
+    color:purple;
+}
+
+.row_66{
+    background-color:#e2d59b;
+    color:purple;
+}
+.row_67{
+    background-color:#e8999b;
+    color:purple;
+}
+
+.row_68{
+    background-color:#9fd2f7;
+    color:purple;
+}
+.row_69{
+    background-color: #aae8fc;
+    color:purple;
+}
+.row_70{
+    background-color:#b9f4ee;
+    color:purple;
+}
+
+th{
+    color:seagreen;
+    text-align: center;
+    font-style: italic; 
+    font: bolder;
+    border: 1px solid rosybrown;
+}
+        
+thead {color: turquoise;}
+
+tfoot {color: chartreuse;}
+
+td 
+{
+    border: 1px solid rosybrown;
+    }
+caption 
+{
+display: table-caption;
+text-align: center;
+text-justify: auto;
+}
+
